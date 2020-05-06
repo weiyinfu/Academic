@@ -1,0 +1,123 @@
+中国计算机协会:https://www.ccf.org.cn/
+
+
+控制与决策：http://kzyjc.cnjournals.com/ch/index.aspx  
+密码学报：http://www.jcr.cacrnet.org.cn:8080/mmxb/CN/column/column4290.shtml  
+核心期刊查询：http://coreej.cceu.org.cn/  
+计算机技术与发展  
+计算机工程与应用，半月一次  
+
+
+
+
+# 北大核心
+1. 软件学报
+2. 计算机学报
+3. 计算机研究与发展
+4. 系统仿真学报
+5. 计算机辅助设计与图形学学报
+6. 自动化学报
+7. 控制与决策
+8. 中国图象图形学报
+9. 计算机集成制造系统
+10. [中文信息学报](http://jcip.cipsc.org.cn/CN/volumn/home.shtml)
+11. 控制理论与应用
+12. 计算机应用
+13. 计算机应用研究
+14. 小型微型计算机系统
+15. 机器人
+16. 计算机科学
+17. 信息与控制
+18. 微电子学与计算机
+19. 国土资源遥感
+20. 计算机工程与设计
+21. 计算机仿真
+22. 传感技术学报
+23. 计算机测量与控制
+24. 模式识别与人工智能
+25. 遥感技术与应用
+26. 控制工程
+27. 计算机工程与科学
+28. 传感器与微系统
+29. 计算机应用与软件
+30. 测控技术
+31. 智能系统学报
+ 
+# 密码学
+密码学与信息安全重要会议
+* Crypto     ■ Eurocrypt         ■   TCC (Theory of Cryptography Conference)
+* Asiacrypt   ■PKC (Public Key Cryptography)    ■FSE (Fast Software Encryption) 
+* CT-RSA (The Cryptographers' Track at the RSA Conference)
+* CHES (Cryptographic Hardware and Embedded Systems)
+* FC (Financial Cryptography and Data Security)
+* SAC (Selected Areas in Cryptography)     SCN (Security and Cryptography for Networks) 
+* IMACC (IMA International Conference on Cryptography and Coding)
+* ACNS(International Conference on Applied Cryptography and Network Security)
+* ISC (Information Security Conference)
+* ACISP (Australasian Conference on Information Security and Privacy) 
+* Indocrypt (International Conference on Cryptology in India) 
+* SECRYPT (International Conference on Security and Cryptography)
+* ICISC (International Conference on Information Security and Cryptology)
+* Inscrypt (China International Conference on Information Security and Cryptology)
+* Africacrypt (International Conference on Cryptology in Africa)  
+* IWSEC (International Workshop on Security)  
+* CANS (International Conference on Cryptology and Network Security)  
+* Pairing ( International Conference on Pairing-based Cryptography)   
+* PQCrypto (International Conference on Post-Quantum Cryptography)   
+* ProvSec (International Conference on Provable Security)   
+
+# 密码学与信息安全重要期刊
+* Journal of Cryptology           ■     Designs, Codes and Cryptography
+* ACM Transactions on Information and System Security 
+* IEEE Transactions on Information Theory
+* IEEE Transactions on Dependable and Secure Computing 
+* Journal of Computer Security
+* International Journal of Information Security
+* IEEE Transactions on Information Forensics and Security
+* IET Information Security 
+* IEEE Security & Privacy Magazine
+* International Journal of Applied Cryptography
+* Computer & Security 
+* Journal of Cryptographic Engineering
+* Security and Communication Networks
+* Information Management & Computer Security
+* Information Security Technical Report
+* International Journal of Information Security and Privacy
+* International Journal of Information and Computer Security
+* International Journal on Cryptography and Information Security
+* International Journal of Security and Networks
+* Journal of Mathematical Cryptology
+* International Journal of Network Security 
+* EURASIP Journal on Information Security
+
+# 计算机核心期刊新排名（1）分类:计算机期刊
+1 计算机学报 北京 中国计算机学会等
+2 软件学报 北京 中国科学院软件研究所
+3 计算机研究与发展 北京 中国科学院计算技术研究所等
+4 自动化学报 北京 中国科学院等 双月
+5 计算机科学 重庆 国家科技部西南信息中心
+6 控制理论与应用 广州 中国科学院系统科学研究所等 双月
+7 计算机辅助设计与图形学学报 北京 中国计算机学会等
+8 计算机工程与应用 北京 华北计算技术研究所  旬刊
+9 模式识别与人工智能 北京 中国自动化学会等
+10 控制与决策 沈阳 东北大学
+11 小型微型计算机系统 沈阳 中国科学院沈阳计算机技术研究所
+12 计算机工程 上海 上海市计算机协会 半月
+13 计算机应用 北京 中国科学院计算机应用研究所等
+14 信息与控制 沈阳 中国科学院沈阳自动化研究所
+15 机器人 沈阳 中国科学院沈阳自动化研究所
+16 中国图象图形学报 A版 北京 中国图象图形学会
+17 计算机应用研究 成都 四川省计算机应用研究中心
+18 系统仿真学报 北京 航天机电集团北京长峰计算机技术有限公司
+19 计算机集成制造系统—CIMS 北京 国家863计划CIMS主题办公室等
+20 遥感学报 .北京 中国地理学会环境遥感分会，中国科学院遥感应用研究所
+21 中文信息学报 北京 中国中文信息学会
+22 微计算机信息 北京 中国计算机用户协会，山西协会
+23 数据采集与处理 南京 中国电子学会等
+24 微型机与应用 北京 信息产业部电子第6研究所
+25 传感器技术 哈尔滨 信息产业部电子第49研究所
+26 传感技术学报 南京 国家教委全国高校传感技术研究会，东南大学
+27 计算机工程与设计 北京 航天工业总公司706所 半月
+28 计算机应用与软件 上海 上海计算技术研究所等
+29 微型计算机 重庆 科技部西南信息中心
+30 微电子学与计算机 西安 中国航天工业总公等 补充：发行介绍

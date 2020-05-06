@@ -1,0 +1,422 @@
+数学领域的期刊有四大天王，是数学界影响力最大的，他们分别是《数学年刊》 Annals of Mathematics，《数学新进展》Inventiones Mathematicae，Acta Mathematica以及《美国数学会杂志》Journal Of The American Mathematical Society。据不完全统计，新中国成立以来，中国大陆研究机构在四大国际数学权威期刊上发表的论文有30篇左右，其中完全由中国大陆研究机构完成的论文为10篇左右 [1] 。在以前，能在这几个杂志上发表一篇文章的甚至被认为有资格参选中国科学院院士。最近几年，经过国内数学家们的不断努力，发表在这几个期刊上的文章数量不断地增加，但是能在这些期刊上发表文章仍然是一件非常骄傲的事情。
+
+数学领域的期刊跟计算机领域一样，影响因子都很低。可能也是因为曲高和寡吧，数学中多数是纯理论的文章，这些文章别说领域外的人了，就连同样是搞数学，但是不同方向上的学者都不一定能看懂，就更别提要用到这些理论发展出很吸引眼球的应用了。所以这些数学期刊除了影响因子低外，还有一个特点就是文章被引半衰期很长，大于10年。这也是由于别的领域要花很长时间才能消化这些结果，发现其应用价值。
+
+《数学年刊》 Annals of Mathematics，一开始由哈佛大学出版，在1911年的时候迁到号称是世界数学中心的普林斯顿大学 (Princeton University)，现在是普林斯顿大学跟普林斯顿高等研究院（the Institute for Advanced Study)共同出版。或者是搞数学的人都不喜欢噱头的东西，崇尚简洁就是美，它的官方网站http://annals.math.princeton.edu/看起来非常简洁，就提供了编辑信息，投稿指南，联系方式和订阅价格等基本的信息，没有半点顶级期刊应该有的气势。Annals of Mathematics的影响因子并不高，2011年才2.928，然而这丝毫不能动摇它在数学界的地位。2011年发表的文章数量有83篇。
+
+《数学新进展》Inventiones Mathematicae 由Springer Verlag 出版，是另外一本权威期刊。影响因子比Annals of Mathematics稍低。中国数学家们在这个期刊上发表的文章数量要比Annals of Mathematics多一些。
+
+Acta Mathematica由Gösta Mittag-Leffler出版社创刊于1882年，隶属于瑞典皇家科学院，2011年的影响因子为3.333。Acta Mathematica是季刊，每年发行2卷，每卷有2期。内容覆盖了数学所有研究方向。
+
+《美国数学会杂志》Journal Of The American Mathematical Society是美国数学协会所办的期刊，也是季刊。2011年的影响因子是3.841，发表文章数量为32篇，等于说每期8篇文章。对众多数学方向的研究人员来说，能在这么少的文章数量中占有一席之地那是多么的艰难啊。
+
+
+# 国内
+高等学校计算机数学学报  
+应用数学学报  
+高等应用数学学报   
+
+# 国际
+* Journal of the American Mathematical Society 美国数学会杂志
+* Annals of Mathematics 数学年报
+* Advances in Applied Mathematics 应用数学进展
+* Advances in Applied Probability 应用概率论进展
+* Advances in Computational Mathematics 计算数学进展
+* Advances in Mathematics 数学进展
+* Algebra Colloquium 代数学讨论会
+* Algebras and Representation Theory 代数和表示理论
+* American Mathematical Monthly 美国数学月刊
+* American Statistician 美国统计员
+* Annals of Applied Probability 应用概率论年报
+* Annals of Global Analysis and Geometry 整体分析与几何学年报
+* Annals of Mathematics and Artificial Intelligence 人工智能论题年报
+* Annals of Operations Research 运筹学研究年报
+* Annals of Probability 概率论年报
+* Annals of Pure and Applied Logic 抽象和应用逻辑年报
+* Annals of Statistics 统计学年报
+* Annals of The Institute of Statistical Mathematics 统计数学学会年报
+* Applicable Algebra in Engineering Communication and Computing 代数在工程通信与计算中的应用
+* Applied and Computational Harmonic Analysis 调和分析应用和计算
+* Applied Categorical Structures 应用范畴结构
+* Applied Mathematics and Computation 应用数学与计算
+* Applied Mathematics and Optimization 应用数学与最优化
+* Applied Mathematics Letters 应用数学快报
+* Archive for History of Exact Sciences 科学史档案
+* Archive for Mathematical Logic 数理逻辑档案
+* Archive for Rational Mechanics and Analysis 理性力学和分析档案
+* Archives of Computational Methods in Engineering 工程计算方法档案
+* Asymptotic Analysis 渐近线分析
+* Autonomous Robots 机器人
+* British Journal of Mathematical & Statistical Psychology 英国数学与统计心理学杂志
+* Bulletin of The American Mathematical Society 美国数学会快报
+* Bulletin of the London Mathematical Society 伦敦数学会快报
+* Calculus of Variations and Partial Differential Equations 变分法与偏微分方程
+* Combinatorics Probability & Computing 组合概率与计算
+* Combustion Theory and Modeling 燃烧理论建模
+* Communications in Algebra 代数通讯
+* Communications in Contemporary Mathematics 当代数学通讯
+* Communications in Mathematical Physics 数学物理学通讯
+* Communications in Partial Differential Equations 偏微分方程通讯
+* Communications in Statistics-Simulation and Computation 统计通讯 – 模拟与计算
+* Communications on Pure and Applied Mathematics 纯数学与应用数学通讯
+* Computational Geometry-Theory and Applications 计算几何 – 理论与应用
+* Computational Optimization and Applications 优化计算与应用
+* Computational Statistics & Data Analysis 统计计算与数据分析
+* Computer Aided Geometric Design 计算机辅助几何设计
+* Computer Physics Communications 计算机物理通讯
+* Computers & Mathematics with Applications 计算机与数学应用
+* Computers & Operations Research 计算机与运筹学研究
+* Concurrent Engineering-Research and Applications 共点工程 – 研究与应用
+* Conformal Geometry and Dynamics 投影几何与力学
+* Decision Support Systems 决策支持系统
+* Designs Codes and Cryptography 编码设计与密码系统
+* Differential Geometry and Its Applications 微分几何及其应用
+* Discrete and Continuous Dynamical Systems 离散与连续动力系统
+* Discrete Applied Mathematics 应用离散数学
+* Discrete Computational Geometry 离散计算几何学
+* Discrete Event Dynamic Systems-Theory and Applications 离散事件动态系统 – 理论和应用
+* Discrete Mathematics 离散数学
+* Educational and Psychological Measurement 教育与心理测量方法
+* Engineering Analysis with Boundary Elements 工程边界元素分析
+* Ergodic Theory and Dynamical Systems 遍历理论和动力系统
+* European Journal of Applied Mathematics 欧洲应用数学杂志
+* European Journal of Combinatorics 欧洲组合数学杂志
+* European Journal of Operational Research 欧洲运筹学杂志
+* Experimental Mathematics 实验数学
+* Expert Systems with Applications 专家系统应用
+* Finite Fields and Their Applications 有限域及其应用
+* Foundations of Computational Mathematics 计算数学基础
+* Fuzzy Sets and Systems 模糊集与模糊系统
+* Glasgow Mathematical Journal 英国格拉斯哥数学杂志
+* Graphs and Combinatorics 图论与组合数学
+* IEEE Robotics & Automation Magazine IEEE机器人与自动化杂志
+* IEEE Transactions on Robotics and Automation IEEE机器人与自动化学报
+* IMA Journal of Applied Mathematics IMA应用数学学报
+* IMA Journal of Mathematics Applied in Medicine and Biology IMA数学在医药与生物中的应用杂志
+* IMA Journal of Numerical Analysis IMA数值分析学报
+* Information and Computation 信息与计算
+* Insurance Mathematics & Economics 保险数学和经济学
+* International Journal for Numerical Methods in Engineering 国际工程数值方法杂志
+* International Journal of Algebra and Computation 国际代数和计算杂志
+* International Journal of Computational Geometry & Applications 国际计算几何应用杂志
+* International Journal of Computer Integrated Manufacturing 国际计算机集成制造业国际杂志
+* International Journal of Game Theory 国际对策论国际杂志
+* International Journal of Mathematics 国际数学杂志
+* International Journal of Production Research 国际研究成果杂志
+* International Journal of Robotics Research 国际机器人研究杂志
+* International Journal of Systems Science 国际系统科学杂志
+* International Statistical Review 国际统计评论
+* Inverse Problems 反比问题
+* Journal of Algebra 代数学报
+* Journal of Algebraic Combinatorics 代数组合数学学报
+* Journal of Algebraic Geometry 代数几何学报
+* Journal of Algorithms 算法学报
+* Journal of Applied Mathematics and Mechanics 数学应用与力学学报
+* Journal of Applied Probability 应用概率杂志
+* Journal of Approximation Theory 近似值理论杂志
+* Journal of Combinatorial Optimization 组合最优化学报
+* Journal of Combinatorial Theory Series B 组合理论学报B辑
+* Journal of Combinatorial Theory Series A 组合理论学报A辑
+* Journal of Computational Acoustics 声学计算杂志
+* Journal of Computational Analysis and Applications 计算分析与应用学报
+* Journal of Computational and Applied Mathematics 计算与应用数学杂志
+* Journal of Computational Biology 生物计算杂志
+* Journal of Computational Mathematics 计算数学学报
+* Journal of Computational Neuroscience 神经系统计算杂志
+* Journal of Computational Neuroscience 神经系统计算杂志
+* Journal of Differential Equations 微分方程组学报
+* Journal of Econometrics 计量经济学会会刊
+* Journal of Engineering Mathematics 工程数学学报
+* Journal of Functional Analysis 泛函分析学报
+* Journal of Geometry and Physics 几何学和物理学学报
+* Journal of Global Optimization 整体优化学报
+* Journal of Graph Theory 图论理论学报
+* Journal of Group Theory 群论理论学报
+* Journal of Lie Theory 展开理论杂志
+* Journal of Mathematical Analysis and Applications 数学分析和应用学报
+* Journal of Mathematical Biology 数学生物学杂志
+* Journal of Mathematical Economics 数学经济学学报
+* Journal of Mathematical Imaging and Vision 成像和视觉数学学报
+* Journal of Mathematical Physics 数学物理学的杂志
+* Journal of Mathematical Psychology 数学心理学杂志
+* Journal of Multivariate Analysis 多变量分析杂志
+* Journal of Nonlinear Science 非线性数学学报
+* Journal of Number Theory 数论学报
+* Journal of Operations Management 操作管理杂志
+* Journal of Pure and Applied Algebra 纯代数与应用代数学学报
+* Journal of Statistical Planning and Inference 统计规划和推论杂志
+* Journal of Symbolic Computation 符号计算学报
+* Journal of the London Mathematical Society-Second Series 伦敦数学会杂志 – 第二辑
+* Journal of the Royal Statistical Society Series B-Statistical Methodology 皇家学会系列杂志B 辑-统计方法学
+* Journal of The Royal Statistical Society Series C-Applied Statistics 皇家学会系列杂志C – 应用统计
+* Journal of Theoretical Probability 概率理论杂志
+* K-Theory K-理论
+* Lecture Notes in Economics and Mathematical Systems 经济学和数学体系讲座
+* Lecture Notes on Mathematics 数学讲座
+* Letters in Mathematical Physics 数学物理学通讯
+* Linear Algebra and Its Applications 线性代数及其应用
+* Mathematical Biosciences 数理生物学
+* Mathematical Finance 数理财金学
+* Mathematical Geology 数理地质学
+* Mathematical Intelligencer 数学情报
+* Mathematical Logic Quarterly 数理逻辑学报
+* Mathematical Methods in the Applied Sciences 数学应用学科
+* Mathematical Methods of Operations Research 运筹学研究
+* Mathematical Models & Methods in Applied Sciences 数学模拟与应用方法
+* Mathematical Physics Electronic J 数学物理电子杂志
+* Mathematical Proceedings of the Society 数学学会学报
+* Mathematical Programming 数学规划
+* Mathematical Social Sciences 数学社会科学
+* Mathematics and Computers in Simulation 数学与电脑模拟
+* Mathematics and Mechanics of Solids 数学与固体力学
+* Mathematics Archives 数学档案库
+* Mathematics Magazine 数学杂志
+* Mathematics of Computation 计算数学
+* Mathematics of Control Signals and Systems 控制信号系统数学
+* Memoirs of the American Mathematical Society 美国数学会备忘录
+* Modem Logic 现代逻辑学
+* Nonlinear Analysis-Theory Methods & Applications 非线性分析 – 理论与应用
+* Nonlinearity 非线性特性
+* Notices 短评
+* Numerical Algorithms 数字算法
+* Numerical Methods for Partial Differential Equations 偏微分方程式数值方法
+* Oxford Bulletin of Economics and Statistics 牛津大学经济与统计快报
+* Potential Analysis 位势分析
+* Proceedings of the American Mathematical Society 美国数学会会议录
+* Proceedings of the London Mathematical Society 伦敦数学会会议录
+* Proceedings of the Royal Society of Edinburgh Section A-Mathematics 英国爱丁堡皇家学会会议录A分册数学
+* Quarterly Journal of Mathematics 数学季刊
+* Quarterly Journal of Mechanics and Applied Mathematics 数学与应用数学季刊
+* Quarterly of Applied Mathematics 应用数学季刊
+* Queueing Systems 排列系统
+* Random Structures and Algorithms 随机结构与算法
+* Reports on Mathematical Physics 数学物理学报告
+* Representation Theory 表示法理论
+* Robotics and Autonomous Systems 机器人技术和自动系统
+* Rocky Mountain Journal of Mathematics 数学难题学报
+* Set-Valued Analysis 精点分析
+* Statistical Papers 统计学论文
+* Statistics & Probability Letters 统计和概率通讯
+* Statistics and Computing 统计和计算
+* Stochastic Analysis and Applications 随机分析和应用
+* Stochastic Environmental Research and Risk Assessment 随机环境论研究和风险评估
+* Stochastic Processes and Their Applications 随机过程及其应用
+* Studies in Applied Mathematics 应用数学研究
+* The College Mathematics Journal 大学数学杂志
+* The Electronic Journal of Combinatorics 组合数学电子期刊
+* Theory of Computing Systems 计算方法理论
+* Theory of Probability and Its Applications 概率理论及其应用程序理论
+* Topology 拓扑学
+* Topology and Its Applications 拓扑学及其应用
+* Transactions of the American Mathematical Society 美国数学会学报
+* Applied Numerical Mathematics《应用数值数学》荷兰，Elsevier Science
+* Annales Scientifiques de l’École Normale Supérieure《高等师范学校科学纪事》法国，Elsevier Science
+* Applied and Computational Harmonic Analysis《应用和计算谐波分析》美国，Elsevier Science
+* Applied Stochastic Models in Business and Industry《商业与工业应用随机模型》英国，John Wiley
+* Acta Applicandae Mathematicae 《应用数学学报》荷兰，Kluwer Acdemic
+* Advances in Computational Mathematics《计算数学进展》荷兰，Kluwer Acdemic
+* Annals of Mathematics and Artificial Intelligence《数学与人工智能纪事》荷兰，Kluwer Acdemic
+* Annals of Operations Research《运筹学纪事》荷兰，Kluwer Acdemic出版社出版
+* Annals of the Institute of Statistical Mathematics《统计数理研究所纪事》日本，Kluwer Acdemic
+* Icyfisher 的 数学杂志
+* Journal of the American Mathematical Society 美国数学会杂志
+* Annals of Mathematics 数学年报
+* Advances in Applied Mathematics 应用数学进展
+* Advances in Applied Probability 应用概率论进展
+* Advances in Computational Mathematics 计算数学进展
+* Advances in Mathematics 数学进展
+* Algebra Colloquium 代数学讨论会
+* Algebras and Representation Theory 代数和表示理论
+* American Mathematical Monthly 美国数学月刊
+* American Statistician 美国统计员
+* Annals of Applied Probability 应用概率论年报
+* Annals of Global Analysis and Geometry 整体分析与几何学年报
+* Annals of Mathematics and Artificial Intelligence 人工智能论题年报
+* Annals of Operations Research 运筹学研究年报
+* Annals of Probability 概率论年报
+* Annals of Pure and Applied Logic 抽象和应用逻辑年报
+* Annals of Statistics 统计学年报
+* Annals of The Institute of Statistical Mathematics 统计数学学会年报
+* Applicable Algebra in Engineering Communication and Computing 代数在工程通信与计算中的应用
+* Applied and Computational Harmonic Analysis 调和分析应用和计算
+* Applied Categorical Structures 应用范畴结构
+* Applied Mathematics and Computation 应用数学与计算
+* Applied Mathematics and Optimization 应用数学与最优化
+* Applied Mathematics Letters 应用数学快报
+* Archive for History of Exact Sciences 科学史档案
+* Archive for Mathematical Logic 数理逻辑档案
+* Archive for Rational Mechanics and Analysis 理性力学和分析档案
+* Archives of Computational Methods in Engineering 工程计算方法档案
+* Asymptotic Analysis 渐近线分析
+* Autonomous Robots 机器人
+* British Journal of Mathematical & Statistical Psychology 英国数学与统计心理学杂志
+* Bulletin of The American Mathematical Society 美国数学会快报
+* Bulletin of the London Mathematical Society 伦敦数学会快报
+* Calculus of Variations and Partial Differential Equations 变分法与偏微分方程
+* Combinatorics Probability & Computing 组合概率与计算
+* Combustion Theory and Modeling 燃烧理论建模
+* Communications in Algebra 代数通讯
+* Communications in Contemporary Mathematics 当代数学通讯
+* Communications in Mathematical Physics 数学物理学通讯
+* Communications in Partial Differential Equations 偏微分方程通讯
+* Communications in Statistics-Simulation and Computation 统计通讯 – 模拟与计算
+* Communications on Pure and Applied Mathematics 纯数学与应用数学通讯
+* Computational Geometry-Theory and Applications 计算几何 – 理论与应用
+* Computational Optimization and Applications 优化计算与应用
+* Computational Statistics & Data Analysis 统计计算与数据分析
+* Computer Aided Geometric Design 计算机辅助几何设计
+* Computer Physics Communications 计算机物理通讯
+* Computers & Mathematics with Applications 计算机与数学应用
+* Computers & Operations Research 计算机与运筹学研究
+* Concurrent Engineering-Research and Applications 共点工程 – 研究与应用
+* Conformal Geometry and Dynamics 投影几何与力学
+* Decision Support Systems 决策支持系统
+* Designs Codes and Cryptography 编码设计与密码系统
+* Differential Geometry and Its Applications 微分几何及其应用
+* Discrete and Continuous Dynamical Systems 离散与连续动力系统
+* Discrete Applied Mathematics 应用离散数学
+* Discrete Computational Geometry 离散计算几何学
+* Discrete Event Dynamic Systems-Theory and Applications 离散事件动态系统 – 理论和应用
+* Discrete Mathematics 离散数学
+* Educational and Psychological Measurement 教育与心理测量方法
+* Engineering Analysis with Boundary Elements 工程边界元素分析
+* Ergodic Theory and Dynamical Systems 遍历理论和动力系统
+* European Journal of Applied Mathematics 欧洲应用数学杂志
+* European Journal of Combinatorics 欧洲组合数学杂志
+* European Journal of Operational Research 欧洲运筹学杂志
+* Experimental Mathematics 实验数学
+* Expert Systems with Applications 专家系统应用
+* Finite Fields and Their Applications 有限域及其应用
+* Foundations of Computational Mathematics 计算数学基础
+* Fuzzy Sets and Systems 模糊集与模糊系统
+* Glasgow Mathematical Journal 英国格拉斯哥数学杂志
+* Graphs and Combinatorics 图论与组合数学
+* IEEE Robotics & Automation Magazine IEEE机器人与自动化杂志
+* IEEE Transactions on Robotics and Automation IEEE机器人与自动化学报
+* IMA Journal of Applied Mathematics IMA应用数学学报
+* IMA Journal of Mathematics Applied in Medicine and Biology IMA数学在医药与生物中的应用杂志
+* IMA Journal of Numerical Analysis IMA数值分析学报
+* Information and Computation 信息与计算
+* Insurance Mathematics & Economics 保险数学和经济学
+* International Journal for Numerical Methods in Engineering 国际工程数值方法杂志
+* International Journal of Algebra and Computation 国际代数和计算杂志
+* International Journal of Computational Geometry & Applications 国际计算几何应用杂志
+* International Journal of Computer Integrated Manufacturing 国际计算机集成制造业国际杂志
+* International Journal of Game Theory 国际对策论国际杂志
+* International Journal of Mathematics 国际数学杂志
+* International Journal of Production Research 国际研究成果杂志
+* International Journal of Robotics Research 国际机器人研究杂志
+* International Journal of Systems Science 国际系统科学杂志
+* International Statistical Review 国际统计评论
+* Inverse Problems 反比问题
+* Journal of Algebra 代数学报
+* Journal of Algebraic Combinatorics 代数组合数学学报
+* Journal of Algebraic Geometry 代数几何学报
+* Journal of Algorithms 算法学报
+* Journal of Applied Mathematics and Mechanics 数学应用与力学学报
+* Journal of Applied Probability 应用概率杂志
+* Journal of Approximation Theory 近似值理论杂志
+* Journal of Combinatorial Optimization 组合最优化学报
+* Journal of Combinatorial Theory Series B 组合理论学报B辑
+* Journal of Combinatorial Theory Series A 组合理论学报A辑
+* Journal of Computational Acoustics 声学计算杂志
+* Journal of Computational Analysis and Applications 计算分析与应用学报
+* Journal of Computational and Applied Mathematics 计算与应用数学杂志
+* Journal of Computational Biology 生物计算杂志
+* Journal of Computational Mathematics 计算数学学报
+* Journal of Computational Neuroscience 神经系统计算杂志
+* Journal of Computational Neuroscience 神经系统计算杂志
+* Journal of Differential Equations 微分方程组学报
+* Journal of Econometrics 计量经济学会会刊
+* Journal of Engineering Mathematics 工程数学学报
+* Journal of Functional Analysis 泛函分析学报
+* Journal of Geometry and Physics 几何学和物理学学报
+* Journal of Global Optimization 整体优化学报
+* Journal of Graph Theory 图论理论学报
+* Journal of Group Theory 群论理论学报
+* Journal of Lie Theory 展开理论杂志
+* Journal of Mathematical Analysis and Applications 数学分析和应用学报
+* Journal of Mathematical Biology 数学生物学杂志
+* Journal of Mathematical Economics 数学经济学学报
+* Journal of Mathematical Imaging and Vision 成像和视觉数学学报
+* Journal of Mathematical Physics 数学物理学的杂志
+* Journal of Mathematical Psychology 数学心理学杂志
+* Journal of Multivariate Analysis 多变量分析杂志
+* Journal of Nonlinear Science 非线性数学学报
+* Journal of Number Theory 数论学报
+* Journal of Operations Management 操作管理杂志
+* Journal of Pure and Applied Algebra 纯代数与应用代数学学报
+* Journal of Statistical Planning and Inference 统计规划和推论杂志
+* Journal of Symbolic Computation 符号计算学报
+* Journal of the London Mathematical Society-Second Series 伦敦数学会杂志 – 第二辑
+* Journal of the Royal Statistical Society Series B-Statistical Methodology 皇家学会系列杂志B 辑-统计方法学
+* Journal of The Royal Statistical Society Series C-Applied Statistics 皇家学会系列杂志C – 应用统计
+* Journal of Theoretical Probability 概率理论杂志
+* K-Theory K-理论
+* Lecture Notes in Economics and Mathematical Systems 经济学和数学体系讲座
+* Lecture Notes on Mathematics 数学讲座
+* Letters in Mathematical Physics 数学物理学通讯
+* Linear Algebra and Its Applications 线性代数及其应用
+* Mathematical Biosciences 数理生物学
+* Mathematical Finance 数理财金学
+* Mathematical Geology 数理地质学
+* Mathematical Intelligencer 数学情报
+* Mathematical Logic Quarterly 数理逻辑学报
+* Mathematical Methods in the Applied Sciences 数学应用学科
+* Mathematical Methods of Operations Research 运筹学研究
+* Mathematical Models & Methods in Applied Sciences 数学模拟与应用方法
+* Mathematical Physics Electronic J 数学物理电子杂志
+* Mathematical Proceedings of the Society 数学学会学报
+* Mathematical Programming 数学规划
+* Mathematical Social Sciences 数学社会科学
+* Mathematics and Computers in Simulation 数学与电脑模拟
+* Mathematics and Mechanics of Solids 数学与固体力学
+* Mathematics Archives 数学档案库
+* Mathematics Magazine 数学杂志
+* Mathematics of Computation 计算数学
+* Mathematics of Control Signals and Systems 控制信号系统数学
+* Memoirs of the American Mathematical Society 美国数学会备忘录
+* Modem Logic 现代逻辑学
+* Nonlinear Analysis-Theory Methods & Applications 非线性分析 – 理论与应用
+* Nonlinearity 非线性特性
+* Notices 短评
+* Numerical Algorithms 数字算法
+* Numerical Methods for Partial Differential Equations 偏微分方程式数值方法
+* Oxford Bulletin of Economics and Statistics 牛津大学经济与统计快报
+* Potential Analysis 位势分析
+* Proceedings of the American Mathematical Society 美国数学会会议录
+* Proceedings of the London Mathematical Society 伦敦数学会会议录
+* Proceedings of the Royal Society of Edinburgh Section A-Mathematics 英国爱丁堡皇家学会会议录A分册数学
+* Quarterly Journal of Mathematics 数学季刊
+* Quarterly Journal of Mechanics and Applied Mathematics 数学与应用数学季刊
+* Quarterly of Applied Mathematics 应用数学季刊
+* Queueing Systems 排列系统
+* Random Structures and Algorithms 随机结构与算法
+* Reports on Mathematical Physics 数学物理学报告
+* Representation Theory 表示法理论
+* Robotics and Autonomous Systems 机器人技术和自动系统
+* Rocky Mountain Journal of Mathematics 数学难题学报
+* Set-Valued Analysis 精点分析
+* Statistical Papers 统计学论文
+* Statistics & Probability Letters 统计和概率通讯
+* Statistics and Computing 统计和计算
+* Stochastic Analysis and Applications 随机分析和应用
+* Stochastic Environmental Research and Risk Assessment 随机环境论研究和风险评估
+* Stochastic Processes and Their Applications 随机过程及其应用
+* Studies in Applied Mathematics 应用数学研究
+* The College Mathematics Journal 大学数学杂志
+* The Electronic Journal of Combinatorics 组合数学电子期刊
+* Theory of Computing Systems 计算方法理论
+* Theory of Probability and Its Applications 概率理论及其应用程序理论
+* Topology 拓扑学
+* Topology and Its Applications 拓扑学及其应用
+* Transactions of the American Mathematical Society 美国数学会学报
+* Applied Numerical Mathematics《应用数值数学》荷兰，Elsevier Science
+* Annales Scientifiques de l’École Normale Supérieure《高等师范学校科学纪事》法国，Elsevier Science
+* Applied and Computational Harmonic Analysis《应用和计算谐波分析》美国，Elsevier Science
+* Applied Stochastic Models in Business and Industry《商业与工业应用随机模型》英国，John Wiley
+* Acta Applicandae Mathematicae 《应用数学学报》荷兰，Kluwer Acdemic
+* Advances in Computational Mathematics《计算数学进展》荷兰，Kluwer Acdemic
+* Annals of Mathematics and Artificial Intelligence《数学与人工智能纪事》荷兰，Kluwer Acdemic
+* Annals of Operations Research《运筹学纪事》荷兰，Kluwer Acdemic出版社出版
+* Annals of the Institute of Statistical Mathematics《统计数理研究所纪事》日本，Kluwer Acdemic
